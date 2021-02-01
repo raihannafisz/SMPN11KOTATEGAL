@@ -1,0 +1,2 @@
+rootProject.name = "SMPN 11 KOTA TEGAL"
+include ':app'
